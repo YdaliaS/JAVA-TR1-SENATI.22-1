@@ -11,12 +11,16 @@ almacenados en arreglos de variables (tener por lo menos 5 clientes).
 
 Ejemplo:
 
+![Imagen pidiendo datos al usuario](img/entrada.jpeg)
+
 El cliente tendrá 3 oportunidades para ingresar. De lo contrario la aplicación se
 cerrará.
 
 Una vez que el cliente ingresa correctamente, se mostrará el menú principal.
 
 Ejemplo:
+
+![Menú de opciones del cajero](img/entrada2.jpeg)
 
 ***Deposito*** : *Operación que deberá permitir realizar depósitos para incrementar el
 saldo. El saldo inicial es cero (S/. 0.00).*
@@ -31,3 +35,7 @@ Se recomienda la creación de las clases: **Cliente** (dni, nombre, password) y
 
 Se recomienda el uso de *ArrayList<>* para registrar los clientes, y las operaciones de
 depósito y retiro.
+
+
+[Puedes descargar el proyecto](https://github.com/YdaliaS/JAVA-TR1-SENATI.22-1/archive/refs/heads/main.zip)
+
